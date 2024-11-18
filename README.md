@@ -29,7 +29,7 @@ I invite mechanical, electrical, computer-science enthusiasts, along with develo
  - **User Interface:** Develop an easy-to-use interface for recipe input and monitoring.
 Optionally create mobile or web-based apps for remote control and monitoring.
  - **API and Open-Source Documentation:** Document the system architecture, software APIs, and user instructions. Provide clear guidance on how others can contribute to the project.
- - **Testing:** Test basic tasks like chopping, stirring, or following simple recipes.
+ - **Testing:** Test basic tasks like heating, stirring, or following simple recipes.
 Test cooking results for different recipes (taste, temperature, consistency).
 ### Beta Testing & Refinement
  - **Beta Release:** Share the first fully functional version with early adopters and the open-source community. Gather feedback from testers on both hardware performance (e.g., robotic movement) and software performance (e.g., recipe execution).
