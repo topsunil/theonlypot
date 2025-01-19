@@ -52,7 +52,7 @@ I have chosen [**Jeera Rice**](https://en.wikipedia.org/wiki/Jeera_bhaat) for 2 
 |2   |Solid          |Cummin Seed   |10s |
 |3   |Solid          |Onion         |0   |
 |4   |Solid          |Chopped Chilli|2m  |
-|5   |Solid          |Green peas    |0d  |
+|5   |Solid          |Green peas    |0  |
 |6   |Liquid         |Water         |1m  |
 |7   |Solid          |Rice          |3m  |
 |8   |Solid          |Salt          |0   |
