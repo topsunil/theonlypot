@@ -31,7 +31,33 @@ Optionally create mobile or web-based apps for remote control and monitoring.
  - **API and Open-Source Documentation:** Document the system architecture, software APIs, and user instructions. Provide clear guidance on how others can contribute to the project.
  - **Testing:** Test basic tasks like heating, stirring, or following simple recipes.
 Test cooking results for different recipes (taste, temperature, consistency).
+
 ### Beta Testing & Refinement
  - **Beta Release:** Share the first fully functional version with early adopters and the open-source community. Gather feedback from testers on both hardware performance (e.g., robotic movement) and software performance (e.g., recipe execution).
  - **Refinement:** Refine the hardware for precision and reliability. Optimize the software for better performance, especially recipe execution and real-time adjustments. Implement improvements based on community feedback (e.g., new recipes, better sensors, improved motion algorithms).
  - **Community Engagement:** Open channels for developers to contribute via GitHub, Slack, or forums.
+
+### Pilot Dish Selection for the Project
+
+#### Key Factors for Selection:
+- Number of Ingredients Required
+- Physical Characteristics of the Ingredients
+
+I have chosen [**Peas Pulao**](https://en.wikipedia.org/wiki/Pulao) for 2 people due to the number of ingredients involved and the process of cooking it.
+
+#### Recipe:
+|Step|Ingredient type|Ingredient    |Wait|
+|----|---------------|--------------|----|
+|1   |Liquid         |Oil           |30s |
+|2   |Solid          |Cummin Seed   |10s |
+|3   |Solid          |Onion         |0   |
+|4   |Solid          |Chopped Chilli|2m  |
+|5   |Solid          |Green peas    |0d  |
+|6   |Liquid         |Water         |1m  |
+|7   |Solid          |Rice          |3m  |
+|8   |Solid          |Salt          |0   |
+|9   |Liquid         |Water         |20m |
+
+This gives us a requirement to design for atleast 
+- 6 solid ingredients
+- 2 liquid ingredients (1 high volume & 1 low volume)
