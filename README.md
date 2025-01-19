@@ -43,7 +43,7 @@ Test cooking results for different recipes (taste, temperature, consistency).
 - Number of Ingredients Required
 - Physical Characteristics of the Ingredients
 
-I have chosen [**Peas Pulao**](https://en.wikipedia.org/wiki/Pulao) for 2 people due to the number of ingredients involved and the process of cooking it.
+I have chosen [**Jeera Rice**]((https://en.wikipedia.org/wiki/Jeera_bhaat) for 2 people due to the number of ingredients involved and the process of cooking it.
 
 #### Recipe:
 |Step|Ingredient type|Ingredient    |Wait|
