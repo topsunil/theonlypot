@@ -13,7 +13,7 @@ I narrowed it down to two options:
 I have chosen the **vertical auger** mainly because it is less space-consuming and easy to construct with available plumbing materials.
 
 #### Concept:
-The solid ingredient feed (SID) needs to be easily washable and easy to store on a refrigerator’s door shelf (with a diameter of less than 50mm). Based on this, I designed and created a paper prototype of such an SID.
+The solid ingredient feed (SIF) needs to be easily washable and easy to store on a refrigerator’s door shelf (with a diameter of less than 50mm). Based on this, I designed and created a paper prototype of such an SIF.
 
 #### Steps:
 1. Create an **outer body cylinder**.
@@ -43,9 +43,9 @@ This involved 2 parts:
 - The center pipe that drives the auger blade
 - The auger blade itself.
 
-I created a center pipe of 8mm diameter using the **C = pi x D** formula. The difficult part was to find the formula for designing the auger blade so, I can design it on flat surface and cutout it to form the auger.
+I created a center pipe of 8mm diameter using the **C = pi x D** formula. The difficult part was to find the formula for designing the auger blade; so that, I can design it on a flat surface and cut it to form the auger blade.
 
-I found this formula to calculate the inner diameter and outer diameter of the auger blade cutout.
+I found the following formula to calculate the inner diameter and the outer diameter of the auger blade.
 
 ##### Parameters
 
@@ -83,11 +83,11 @@ Doing the math, gave me following values:
 ---
 
 ### Feeding Liquid Ingredients
-My first thought is to break it into 2 type:
-- a. High volume liquid feed (Eg: Water)
-    - May use a solenoid controller, gravity fed valve system
-- b. Low volume liquid feed (Eg: Oil)
-    - Looking at commertially available syringe (>100ml capacity)
+My first thought is to break it into 2 types:
+- High volume liquid feed (Eg: Water)
+    - May use a gravity fed solenoid controller valve system
+- Low volume liquid feed (Eg: Oil)
+    - Looking at commercially available syringe (>100ml capacity)
 
 ### Feeding Semi-Solid Ingredients
 
